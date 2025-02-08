@@ -14,6 +14,7 @@ composer.lock
 package-lock.json 
 .DS_store
 ._.DS_store
+._.*
 .idea
 *.log
 /src/blocks/*/build
